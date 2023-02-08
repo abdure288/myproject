@@ -1,3 +1,3 @@
 # myproject
 Training repository 
-The other is not add 
+The other is not added
